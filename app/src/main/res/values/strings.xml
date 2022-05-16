@@ -2,4 +2,6 @@
     <string name="app_name">Laboratorio_2_Java</string>
     <string name="edit_message">Message</string>
     <string name="send_message">Click 2</string>
+    <string name="show_activity">Show Activity</string>
+    <string name="return_to_main_view">Return to Main View</string>
 </resources>
